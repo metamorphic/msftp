@@ -1,0 +1,1 @@
+Files are deemed as already 'seen' if they exist in the store and have the same modified time as the current file.
